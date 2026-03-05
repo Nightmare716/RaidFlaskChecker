@@ -1,5 +1,7 @@
 Pequeño addon que hice para hacer comprobaciones rapidas dentro de la raid.
 
+No se olviden de borrar el -Main del nombre de la carpeta.
+
 REQUISITOS
 -> Ser raid leader
 -> Tener Assist
