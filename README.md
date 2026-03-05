@@ -7,9 +7,13 @@ REQUISITOS
 COMANDOS
 
 -> /rflask (Comprueba si los jugadores en la proximidad tienen algun flask (Cuenta cualquiera de los 4))
+
 -> /rfire (Comprueba si los jugadores en la proximidad tienen una pocion de proteccion contra el fuego )
+
 -> /rfrost (Comprueba si los jugadores en la proximidad tienen una pocion de protteccion contra el hielo)
+
 -> /rnature (Comprueba si los jugadores en la proximidad tienen una pocion de protteccion contra la naturaleza)
+
 -> /rshadow (Comprueba si los jugadores en la proximidad tienen una pocion de protteccion contra las sombras)
 
 (Cuenta incluso las de nivel bajo porque no encontre forma de diferenciarla)
