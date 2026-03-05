@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Raid Flask Checker by |cffff69b4Gelatine|r
+## Notes: Shows players without flask in raid
+## Author: Gelatine
+## Version: 1.0
+
+RaidFlaskCheck.lua
