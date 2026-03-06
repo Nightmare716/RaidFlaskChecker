@@ -8,6 +8,11 @@ REQUISITOS
 
 COMANDOS
 
+-> /rscan (Comando principal que trae un menu para elegir)
+-----------------------------------------------------------
+
+Comandos opcionales
+
 -> /rflask (Comprueba si los jugadores en la proximidad tienen algun flask (Cuenta cualquiera de los 4))
 
 -> /rfire (Comprueba si los jugadores en la proximidad tienen una pocion de proteccion contra el fuego )
