@@ -109,18 +109,18 @@ local function GetFrostFromItem(unit, slot)
         if line then
             local text = line:GetText()
             if text then
-                local value
+                local _,_,value
 
-                value = strmatch(text, "Frost Resistance %+?(%d+)")
+                _,_,value = string.find(text, "Frost Resistance %+?(%d+)")
                 if value then total = total + tonumber(value) end
 
-                value = strmatch(text, "%+(%d+) Frost Resistance")
+                _,_,value = string.find(text, "%+(%d+) Frost Resistance")
                 if value then total = total + tonumber(value) end
 
-                value = strmatch(text, "All Resistances %+?(%d+)")
+                _,_,value = string.find(text, "All Resistances %+?(%d+)")
                 if value then total = total + tonumber(value) end
 
-                value = strmatch(text, "%+(%d+) All Resistances")
+                _,_,value = string.find(text, "%+(%d+) All Resistances")
                 if value then total = total + tonumber(value) end
             end
         end
