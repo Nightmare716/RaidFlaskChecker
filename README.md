@@ -26,3 +26,5 @@ Comandos opcionales
 (Cuenta incluso las de nivel bajo porque no encontre forma de diferenciarla)
 
 -> /rfrost105 (Comprueba cuanta resistencia (contando auras y totems) al frio tiene cada jugador, en caso de tener menos de 105 con aura incluida lo muestra en el chat con la cantidad que tiene el jugador)
+
+-> /rall (Comprueba todos los consus normales)
