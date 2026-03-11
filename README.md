@@ -1,6 +1,7 @@
 Pequeño addon que hice para hacer comprobaciones rapidas dentro de la raid.
 
 IMPORTANTE: Renombrar la carpeta a "RaidFlaskCheck" sino no anda, gracias a zmeg que me lo hizo notar.
+IMPORTANTE 2: Gracias a Holle por añadir funciones!
 
 REQUISITOS
 -> Ser raid leader
