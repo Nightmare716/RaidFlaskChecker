@@ -2,8 +2,9 @@
 ## Title: Raid Flask Checker by |cffff69b4Gelatine|r
 ## Notes: Shows players without flask in raid, colaborate gui by holle
 ## Author: Gelatine
-## Version: 1.0
+## Version: 1.1
 ## SavedVariables: RaidScannerDB
 
 RaidFlaskCheck.lua
 GUI.lua
+
